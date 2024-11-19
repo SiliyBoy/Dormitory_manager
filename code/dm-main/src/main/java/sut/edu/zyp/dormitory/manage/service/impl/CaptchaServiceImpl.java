@@ -9,7 +9,6 @@ import java.util.Random;
 
 /**
  * 验证码服务实现类
- *
  * @author zyp
  * @version 0.0.1
  * @since 0.0.1
