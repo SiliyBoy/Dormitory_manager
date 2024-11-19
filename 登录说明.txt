@@ -1,0 +1,4 @@
+http://localhost:8080/index.html
+管理员：账号：admin，密码：admin，admin表
+学生账号：student表
+宿管账号：dormitory_manager表
